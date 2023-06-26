@@ -1,5 +1,5 @@
 Power Bi Project 1-  Hr Analytics Dashboard
-So we have Hr data that is HR_Analyticcs.csv file, i have refined the data, 
+Having Hr data - HR_Analyticcs.csv file, i have refined the data, 
 removed the duplicate values,
 removed null rows,
 Created Dashboard with 
